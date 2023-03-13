@@ -53,6 +53,8 @@ You can use the normal Injector published on Github to compile it.
 3. Compile via Sln
 4. Enter the game and open Insert, then paste the menu you want to use.
 
+<b> OR RUN THE AUTOSETUPLOADER.EXE | It will atuomatically make the loader for you. </b>
+
 <br>
 
   
